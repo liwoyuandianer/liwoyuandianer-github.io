@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liwoyuandianer.github.io</id>
-    <title>计算机协会.</title>
-    <updated>2021-10-01T14:35:38.221Z</updated>
+    <title>计算机协会</title>
+    <updated>2021-10-01T14:41:31.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liwoyuandianer.github.io"/>
     <link rel="self" href="https://liwoyuandianer.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://liwoyuandianer.github.io/images/avatar.png</logo>
     <icon>https://liwoyuandianer.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 计算机协会.</rights>
+    <rights>All rights reserved 2021, 计算机协会</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://liwoyuandianer.github.io/post/hello-gridea/</id>
-        <link href="https://liwoyuandianer.github.io/post/hello-gridea/">
+        <id>https://liwoyuandianer.github.io/post/hello-jisuanjixiehui/</id>
+        <link href="https://liwoyuandianer.github.io/post/hello-jisuanjixiehui/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2021-09-30T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
